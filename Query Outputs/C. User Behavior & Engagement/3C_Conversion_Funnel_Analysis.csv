@@ -1,0 +1,2 @@
+total_users,users_started_session,users_viewed_items,users_added_to_cart,users_reached_checkout,users_added_payment,users_completed_purchase,avg_time_to_purchase_days,cart_to_checkout_pct,checkout_to_payment_pct,payment_to_purchase_pct
+270154,267116,61252,12545,9715,5751,4419,5.3,77.4,59.2,76.8

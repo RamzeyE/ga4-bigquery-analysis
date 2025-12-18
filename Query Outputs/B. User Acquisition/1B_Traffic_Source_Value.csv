@@ -1,0 +1,7 @@
+source,medium,users,purchase_rate_pct,total_revenue,avg_ltv_per_purchaser,avg_engagement_time_sec,avg_days_to_first_purchase
+google,organic,87993,1.3,84563.0,82.58,85.11,2.4
+(direct),(none),63598,1.5,72548.0,83.77,91.87,2.2
+<Other>,<Other>,43643,1.0,30848.0,74.33,76.46,0.3
+<Other>,referral,26934,1.6,33237.0,85.88,93.67,1.2
+google,cpc,13248,1.0,8086.0,64.17,73.86,0.4
+<Other>,organic,8547,1.0,7448.0,94.28,75.11,0.7

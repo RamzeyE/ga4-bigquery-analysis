@@ -1,0 +1,4 @@
+user_type,avg_engagement_time_sec,avg_events_per_session,avg_pages_per_session
+Total,87.12,11.93,3.75
+Non-Purchaser,73.86,10.63,3.38
+Purchaser,869.31,107.26,30.95

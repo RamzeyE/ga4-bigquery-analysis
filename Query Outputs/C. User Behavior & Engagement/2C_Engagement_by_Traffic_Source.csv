@@ -1,0 +1,7 @@
+source,medium,total_sessions,avg_engagement_time_sec,avg_events_per_session,avg_pages_per_session
+google,organic,111523,80.44,11.75,3.72
+(direct),(none),82853,86.22,11.86,3.73
+<Other>,<Other>,51799,75.5,11.48,3.62
+<Other>,referral,34566,90.36,11.89,3.73
+google,cpc,15594,73.59,11.33,3.58
+<Other>,organic,10151,74.77,11.41,3.6

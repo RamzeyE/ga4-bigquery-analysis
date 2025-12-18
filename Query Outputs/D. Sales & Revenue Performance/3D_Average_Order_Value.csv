@@ -1,0 +1,7 @@
+source,medium,total_orders,avg_order_value,min_order_value,max_order_value
+google,organic,1345,71.21,3.0,1530.0
+(direct),(none),1138,69.99,2.0,865.0
+<Other>,<Other>,570,62.23,1.0,522.0
+<Other>,referral,519,71.29,3.0,784.0
+google,cpc,156,58.05,6.0,307.0
+<Other>,organic,107,76.93,7.0,840.0
